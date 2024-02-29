@@ -15,7 +15,7 @@
 </ul>
 <h2>## Video Walkthrough</h2>
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bacc9013fe5642ca8daae23dc70ec464-with-play.gif">
-
+![GIF](https://submissions.us-east-1.linodeobjects.com/web102/TsVSYu2I.gif)
 
 Copyright [2024] [Sisi Wang]
 
